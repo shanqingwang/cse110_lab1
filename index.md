@@ -7,7 +7,7 @@
 
 ## About Me
 ![](./images/Shanqing%20Wang%20Headshot.jpg)
-My name is Shanqing Wang, and I am a third-year undergraduate majoring in Computer Science: Bioinformatics at UC San Diego.  
+I am a third-year undergraduate majoring in Computer Science: Bioinformatics at UC San Diego.  
 
 
 [Back to Top](#shanqing-wangs-user-page)

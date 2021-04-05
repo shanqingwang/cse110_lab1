@@ -3,7 +3,7 @@
 [About Me](#about-me)  
 [Programming](#programming)  
 [Misc](#misc)  
-[Changelog](#changelog)  
+[Future Plans](#future-plans)  
 
 ## About Me
 ![](./images/Shanqing%20Wang%20Headshot.jpg)
@@ -39,18 +39,21 @@ My **top** games are:
 3. Apex Legends
 
 [Back to Top](#shanqing-wangs-user-page)
-## Changelog
+## Future Plans
+This is only a proof of concept to fulfil lab guidelines, actual self-intro page needs much more work
+
 One thing I am working towards achieving  
-> Start early and start often.
+> Start early and start often.  
 
 ### Checklist
 - [x] Initial creation
 - [ ] Change hobbies to more relevant material
+- [ ] Resize images (html)
 - [ ] Populate with example projects
 - [ ] Get fancy
 
 
 Thanks for visiting!
 ![](./images/cat.jpg)  
-[Cat image here](images/cat.jpg)  
+Cat image here: [(relative link)](images/cat.jpg)  
 [Back to Top](#shanqing-wangs-user-page)  

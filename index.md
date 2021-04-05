@@ -51,6 +51,6 @@ One thing I am working towards achieving
 
 
 Thanks for visiting!
-![](images/cat.jpg =90x60)
+![](images/cat.jpg =90x60)  
 [Cat image here](images/cat.jpg)  
-[Back to Top](#shanqing-wangs-user-page)
+[Back to Top](#shanqing-wangs-user-page)  

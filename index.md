@@ -1,9 +1,9 @@
 # Shanqing Wang's User Page
 ## Sections
-[About Me](#about-me)
-[Programming](#programming)
-[Misc](#misc)
-[Changelog](#changelog)
+[About Me](#about-me)  
+[Programming](#programming)  
+[Misc](#misc)  
+[Changelog](#changelog)  
 
 ## About Me
 ![](images/Shanqing%20Wang%20Headshot.jpg)
@@ -51,5 +51,5 @@ One thing I am working towards achieving
 
 Thanks for visiting!
 ![](images/cat.jpg)
-[Cat image here](images/cat.jpg)
+[Cat image here](images/cat.jpg)  
 [Back to Top](#shanqing-wangs-user-page)

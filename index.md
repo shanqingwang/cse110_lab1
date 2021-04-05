@@ -24,7 +24,7 @@ Other projects I have worked on are to be added in the future. Although I do not
 [Back to Top](#shanqing-wangs-user-page)
 ## Misc
 
-[For my future reference](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+Markdown Formatting Source: [(external link)](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 
